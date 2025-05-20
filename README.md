@@ -18,7 +18,7 @@ This project forecasts future vehicle sales using historical sales data across d
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/vehicle_sales_forecasting.git
+git clone https://github.com/BrantonKM/vehicle_sales_forecasting.git
 cd vehicle_sales_forecasting
 ```
 
