@@ -2,19 +2,19 @@
 
 This project forecasts future vehicle sales using historical sales data across different regions and models. The goal is to help dealerships and motor companies like Isuzu improve inventory planning, budgeting, and marketing efforts.
 
-## 📊 Project Objective
+## Project Objective
 - Forecast monthly sales volumes for different vehicle models.
 - Identify seasonal trends and spikes in demand.
 - Build a user-friendly dashboard to visualize predictions.
 
-## 📁 Project Structure
+## Project Structure
 - `data/`: Sample CSV file containing historical vehicle sales.
 - `notebooks/`: Jupyter Notebook for model development and evaluation.
 - `src/`: Core Python scripts for data processing and forecasting.
 - `dashboards/`: Optional Streamlit app for interactive visualization.
 - `utils/`: Utility functions used throughout the project.
 
-## 🔧 Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repository
 ```bash
@@ -43,11 +43,11 @@ jupyter notebook notebooks/vehicle_sales_forecasting.ipynb
 streamlit run dashboards/streamlit_app.py
 ```
 
-## 📈 Tools & Libraries
+## Tools & Libraries
 - Python, pandas, numpy
 - scikit-learn, Prophet
 - matplotlib, seaborn
 - Streamlit (for dashboards)
 
-## 📬 Contact
+## Contact
 For any inquiries or contributions, reach out.
